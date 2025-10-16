@@ -1,1 +1,2 @@
-Ez egy readme
+Ez egy readme volt.
+
